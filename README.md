@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 2. **引入徽章**：
 
-[ [![HitCount](https://hits.dwyl.com/Huaguang-XinZhe/Huaguang-XinZhe.svg?style=flat&show=unique)](http://hits.dwyl.com/Huaguang-XinZhe/Huaguang-XinZhe)](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FHuaguang-XinZhe%2FHuaguang-XinZhe.json&style=plastic
-)https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FHuaguang-XinZhe%2FHuaguang-XinZhe.json&style=plastic
+https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FHuaguang-XinZhe%2FHuaguang-XinZhe.json&style=plastic
+
 
 
