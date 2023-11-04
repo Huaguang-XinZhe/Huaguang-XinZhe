@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 1. **引入统计**：
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huaguang-XinZhe&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huaguang-XinZhe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
