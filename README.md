@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 2023年11月4日，开启 GitHub 主页装修之旅……
+On November 4, 2023, the GitHub homepage renovation journey began
 
 
 1. **引入统计**：
