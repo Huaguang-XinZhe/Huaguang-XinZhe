@@ -26,7 +26,10 @@ Here are some ideas to get you started:
 
 2. **引入徽章**：
 
-[访问数](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FHuaguang-XinZhe%2FHuaguang-XinZhe.json&style=plastic)
+![访问数](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FHuaguang-XinZhe%2FHuaguang-XinZhe.json&style=plastic "主页访问数")
+
+![Hits](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FHuaguang-XinZhe%2FHuaguang-XinZhe.json%3Fcolor%3Dpink "Visitor Count")
+
 
 
 
