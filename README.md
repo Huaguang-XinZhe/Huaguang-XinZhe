@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 2. **引入徽章**：
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+[![HitCount](https://hits.dwyl.com/Huaguang-XinZhe/Huaguang-XinZhe.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Huaguang-XinZhe/Huaguang-XinZhe)
