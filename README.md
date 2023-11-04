@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+2023年11月4日，开启 GitHub 主页装修之旅……
+
+
+1. **引入统计**：
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huaguang-XinZhe)](https://github.com/anuraghazra/github-readme-stats)
