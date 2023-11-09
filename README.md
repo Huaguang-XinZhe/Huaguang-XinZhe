@@ -30,7 +30,7 @@ On November 4, 2023, the GitHub homepage renovation journey began
 ![Visitors](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FHuaguang-XinZhe%2FHuaguang-XinZhe.json&style=plastic "主页访问数")
 
 
-
+[2023-11-09.md](https://github.com/Huaguang-XinZhe/Huaguang-XinZhe/files/13303487/2023-11-09.md)
 
 
 
