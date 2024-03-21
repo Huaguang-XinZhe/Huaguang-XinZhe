@@ -11,15 +11,12 @@
 ### 最近这一年
 
 <div style="text-align: center">
+  <!-- 这个也需要加 `vertical-align`，否则无法对齐❓ -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=Huaguang-XinZhe&count_private=true&show_icons=true"
     alt="README Stats"
-    <!--
-    这个也需要加
-    `vertical-align`，否则无法对齐❓
-    --
+    style="vertical-align: middle"
   />
-  style="vertical-align: middle" />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huaguang-XinZhe&layout=compact"
     alt="Top Langs"
