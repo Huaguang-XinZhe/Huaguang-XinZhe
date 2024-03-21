@@ -11,11 +11,11 @@
 ### 一些统计（粗）
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Huaguang-XinZhe&count_private=true&show_icons=true"
-  alt="README Stats"
-/>
-<img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huaguang-XinZhe&layout=compact"
   alt="Top Langs"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Huaguang-XinZhe&count_private=true&show_icons=true"
+  alt="README Stats"
 />
 
