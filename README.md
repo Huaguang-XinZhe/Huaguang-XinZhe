@@ -20,5 +20,3 @@
   src="https://github-readme-stats.vercel.app/api?username=Huaguang-XinZhe&count_private=true&show_icons=true"
   alt="README Stats"
 />
-
-使用 emoji 可以帮助别人更直观地了解你的兴趣和技能，同时也为你的个人页添加了一些个性化的触感。希望这个版本能满足你的需求！
